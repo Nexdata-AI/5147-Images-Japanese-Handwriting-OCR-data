@@ -3,7 +3,7 @@
 ## Description
 5,147 Images Japanese Handwriting OCR Data. The text carrier are A4 paper, lined paper, quadrille paper, etc. The device is cellphone, the collection angle is eye-level angle. The dataset content includes Japanese composition, poetry, prose, news, stories, etc. For annotation, line-level quadrilateral bounding box annotation and transcription for the texts were annotated in the data.The dataset can be used for tasks such as Japanese handwriting OCR.
 
-For more details, please refer to the link: https://www.nexdata.ai/datasets/1296?source=Github
+For more details, please refer to the link: https://www.nexdata.ai/datasets/ocr/1296?source=Github
 
 
 ## Data size
